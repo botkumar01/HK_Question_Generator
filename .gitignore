@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Node.js
+server/client/node_modules/
+server/client/build/
+
+# System & log files
+.DS_Store
+Thumbs.db
+*.log
